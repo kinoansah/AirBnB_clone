@@ -22,6 +22,7 @@ create <class_name>: Creates a new object of the specified class.
 show <id>: Displays the information for the object with the specified ID.
 update <id> <attribute> <new_value>: Updates the value of the specified attribute for the object with the specified ID.
 destroy <id>: Deletes the object with the specified ID.
+
 Credits
 This project was created by [Kingsley Owusu Ansah and Samuel Amartey Armah].
 
