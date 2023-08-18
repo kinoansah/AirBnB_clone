@@ -1,8 +1,8 @@
-This is a project task done as part of the ALX SOFTWARE ENGINEERING COURSE
+This is a team project task done as part of the ALX SOFTWARE ENGINEERING COURSE
 
 TOPIC: AirBnB clone - Web static
 
-AUTHOR: OWUSU ANSAH, Kingsley
+AUTHORS: Kingsley Owusu Ansah, Samuel Amartey Armah
 
 Tasks
 
